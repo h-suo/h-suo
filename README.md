@@ -3,7 +3,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-suo&show_icons=true) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-suo&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-suo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
