@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Welcome%20My%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Welcome%20My%20GitHub&fontSize=90)
 
 - 🐶 English Name: Erick
 - 📱 Currently, I'm studying UI implementation with `SwiftUI`.
