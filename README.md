@@ -1,4 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Welcome%20My%20Git&fontSize=90)
 
+- 🐶 English Name: Erick
+- 📱 Currently, I'm studying UI implementation with `SwiftUI`.
+- 👍 I like `Software Architecture` and experimenting with code. 
+- 🤔 If you notice anything odd in my code or have questions, feel free to ask anytime!
 
 <!--
 **h-suo/h-suo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
